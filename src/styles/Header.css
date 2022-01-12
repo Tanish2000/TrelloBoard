@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&display=swap');
+
+.brand_name {
+    font-family: 'PT Sans', sans-serif;
+    font-size : 2rem;
+}
+.brand_tagline {
+    font-size : 0.8rem;
+    margin-top: -5px;
+}
+
+.navbar_color {
+    background-color: #606469;
+}
